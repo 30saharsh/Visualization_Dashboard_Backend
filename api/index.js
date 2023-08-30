@@ -1,3 +1,3 @@
-import app from '../app';
+import app from '../routes/index';
 
 export default app;
